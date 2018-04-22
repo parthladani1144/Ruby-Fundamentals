@@ -1,6 +1,6 @@
 # Ruby Fundaments
 
-- [Fundaments-1](./Fundaments-1/README.md)
+- [Fundaments-1](./Fundaments-1)
     - Variables 
     - Methods
     - Classes
