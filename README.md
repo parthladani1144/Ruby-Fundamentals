@@ -17,7 +17,7 @@ for example:
 
 sum_sq(7)
 
-will ouput the result of :  12 + 2 2  + 32 + 42 + 52 + 62 + 72
+will ouput the result of :  12
 
  
 
