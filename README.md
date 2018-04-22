@@ -1,6 +1,6 @@
 # Ruby Fundaments
 
-- [Fundaments-1](./Fundaments-1)
+- [Fundamentals-1](./Fundamentals-1)
     - Variables 
     - Methods
     - Classes
