@@ -21,7 +21,7 @@
 
 3. write method say_hello, it works like this, for example
 
-    say_hello(“yuan”)
+    say_hello(“Parth”)
 
     will print:
 
