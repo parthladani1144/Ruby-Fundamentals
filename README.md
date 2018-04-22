@@ -1,6 +1,4 @@
 # Ruby-Fundamentals
-Ruby Basics
-
 ## Questions
 
 1. write a method that can duplicate a string n times, for example:
