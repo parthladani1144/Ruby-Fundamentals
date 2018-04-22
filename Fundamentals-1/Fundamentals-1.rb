@@ -30,26 +30,24 @@ puts "\n"
 
 puts "Answer 4:"
 class MyGreeter
-  def initialize(name1, name2, name3)
-    @name1 = name1
-    @name2 = name2
-    @name3 = name3
+  def initialize(names)
+    @name = names
   end
-
+  
   def say_hello
-    puts "Hello " + @name1
-    puts "Hello " + @name2
-    puts "Hello " + @name3
+    for i in 0..@name.length-1
+      puts "Hi #{@name[i]}"
+    end
   end
-
+  
   def say_bye
-    puts "Bye " + @name1
-    puts "Bye " + @name2
-    puts "Bye " + @name3
+    for i in 0..@name.length-1
+      puts "Bye #{@name[i]}"
+    end
   end
 end
 
-obj = MyGreeter.new("john", "ken", "ivy")
+obj = MyGreeter.new(['John', 'Ken', 'Ivy'])
 obj.say_hello
 puts
 obj.say_bye
