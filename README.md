@@ -1,6 +1,5 @@
 # Ruby-Fundamentals
 ## Questions
-    <br />
 
 1. write a method that can duplicate a string n times, for example:
 
@@ -18,7 +17,6 @@
 
     will output the result of :  1^2 + 2^2 + 3^2 + 4^2
 
-<br />
 <br />
 
 3. write method say_hello, it works like this, for example
