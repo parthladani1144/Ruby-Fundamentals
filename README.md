@@ -1,25 +1,23 @@
 # Ruby-Fundamentals
 Ruby Basics
 
-##Questions
+## Questions
 
 1. write a method that can duplicate a string n times, for example:
 
 str_dup(5, “click”)
 
 will ouput:   click click click click click
-
  
 
 2. write a method that calculate sum of squares from 1 to n
 
 for example:
 
-sum_sq(7)
+sum_sq(4)
 
-will ouput the result of :  12
+will output the result of :  1^2 + 2^2 + 3^2 + 4^2
 
- 
 
 3. write method say_hello, it works like this, for example
 
@@ -28,6 +26,7 @@ say_hello(“yuan”)
 will print:
 
 hello yuan
+
 
 4. write a class called MyGreeter
 
@@ -62,8 +61,6 @@ hello ivy
 obj.say_bye
 
 will output:
-
- 
 
 bye john
 
