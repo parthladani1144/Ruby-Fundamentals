@@ -1,6 +1,6 @@
 # Ruby-Fundamentals
 ## Questions
-<br />
+    <br />
 
 1. write a method that can duplicate a string n times, for example:
 
@@ -23,56 +23,56 @@
 
 3. write method say_hello, it works like this, for example
 
-say_hello(“yuan”)
+    say_hello(“yuan”)
 
-will print:
+    will print:
 
-hello yuan
+    hello yuan
 <br />
 
 <br />
 
 4. write a class called MyGreeter
 
-this class can initialize a name list,
+    this class can initialize a name list,
 
-it will have a say_hello method, this method will print
+    it will have a say_hello method, this method will print
 
-“hello” to every name in the name list
+    “hello” to every name in the name list
 
-it will also have a say_bye method, this method will print
+    it will also have a say_bye method, this method will print
 
-“bye” to every name in the name list
+    “bye” to every name in the name list
 
- 
-<br />
+    
+    <br />
 
-for example
+    for example
 
-obj = MyGreeter.new([“john”, “ken”, “ivy”])
-<br />
-
-
-obj.say_hello
-
-will output:
-
-hello john
-
-hello ken
-
-hello ivy
-
-<br />
+    obj = MyGreeter.new([“john”, “ken”, “ivy”])
+    <br />
 
 
-obj.say_bye
+    obj.say_hello
 
-will output:
+    will output:
 
-bye john
+    hello john
 
-bye ken
+    hello ken
 
-bye ivy
+    hello ivy
+
+    <br />
+
+
+    obj.say_bye
+
+    will output:
+
+    bye john
+
+    bye ken
+
+    bye ivy
 <br />
