@@ -6,9 +6,9 @@
     str_dup(5, “click”)
 
     will ouput:   click click click click click
-<br />
- 
-<br />
+
+<br /> 
+
 2. write a method that calculate sum of squares from 1 to n
 
     for example:
@@ -26,7 +26,6 @@
     will print:
 
     hello yuan
-<br />
 
 <br />
 
@@ -41,13 +40,13 @@
     it will also have a say_bye method, this method will print
 
     “bye” to every name in the name list
-
     
     <br />
 
     for example
 
     obj = MyGreeter.new([“john”, “ken”, “ivy”])
+
     <br />
 
 
@@ -73,4 +72,3 @@
     bye ken
 
     bye ivy
-<br />
