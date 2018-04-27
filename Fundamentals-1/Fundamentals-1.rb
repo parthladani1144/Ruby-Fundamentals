@@ -51,3 +51,5 @@ obj = MyGreeter.new(['John', 'Ken', 'Ivy'])
 obj.say_hello
 puts
 obj.say_bye
+
+puts "Hello"
